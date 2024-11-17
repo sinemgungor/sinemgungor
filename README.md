@@ -1,7 +1,7 @@
 # Merhaba, ben Sinem Güngör 👋
 
 ## Hakkımda
-Yazılım geliştirme alanında, **ASP.NET Core**, **Web API** ve **React** gibi modern teknolojilerle güçlü bir altyapıya sahibim. **C#**, **Entity Framework Core** ve **AJAX** gibi araçlarla arka uç ve ön uç geliştirmelerinde deneyimliyim. Ayrıca, **Git** ile sürüm kontrolü ve **PostgreSQL** gibi veritabanlarıyla etkin çalışıyorum. Sürekli olarak yeni teknolojilerle kendimi geliştirmeye devam ediyorum ve projelerimde verimli, sürdürülebilir çözümler üretmeye özen gösteriyorum.
+Yazılım geliştirme alanında, **ASP.NET Core**, **Web API** ve **React** gibi modern teknolojilerle güçlü bir altyapıya sahibim. **C#**, **Entity Framework Core** ve **AJAX** gibi araçlarla arka uç ve ön uç geliştirmelerinde deneyimliyim. Ayrıca, **Git** ile sürüm kontrolü ve **MSSQL** gibi veritabanlarıyla etkin çalışıyorum. Sürekli olarak yeni teknolojilerle kendimi geliştirmeye devam ediyorum ve projelerimde verimli, sürdürülebilir çözümler üretmeye özen gösteriyorum.
 ## Teknolojiler ve Araçlar
 
 ### Backend
